@@ -82,7 +82,9 @@
             "categories": [
                 7
             ],
-            "site": 1
+            "sites": [
+                1
+            ]
         }
     },
     {
