@@ -334,7 +334,8 @@
             "content_model": "category",
             "in_menus": [1, 2, 3],
             "slug": "shop",
-            "site": 1
+            "sites": [1]
+            
         }
     }
 ]
